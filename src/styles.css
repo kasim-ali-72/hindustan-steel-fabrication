@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Slick overrides */
+.slick-slide > div { padding: 0 8px; }
+.slick-dots li button:before { font-size: 10px; }
